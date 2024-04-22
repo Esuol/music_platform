@@ -1,0 +1,10 @@
+[package]
+name = "music_platform"
+version = "0.1.0"
+edition = "2021"
+description = "a simple music platform"
+keywords = ["music", "gui"]
+repository = "https://github.com/berlinen/music_platform.git"
+readme = "README.md"
+
+[dependencies]
